@@ -86,7 +86,6 @@ li a {
   text-transform: uppercase;  
 }
 li a:hover {
-  transform:scale(1.1,1.1);
   background-color:rgb(199, 116, 120);
 }
 #in-footer{
