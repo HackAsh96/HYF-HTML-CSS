@@ -79,7 +79,7 @@ p{
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2){
   ul li:nth-child(2){
-    width: 49%;
+    width: 54%;
   }
   ul li:nth-child(n+3){
     width: 32.3%;
