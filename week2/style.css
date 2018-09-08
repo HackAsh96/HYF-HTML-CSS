@@ -83,7 +83,7 @@ p{
   }
 }
 /*----------------PHONES---------------------  */
-@media screen and (max-width: 450px){
+@media screen and (max-width: 550px){
   ul li:nth-child(1){
     width: 99%;
   }
