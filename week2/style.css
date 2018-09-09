@@ -75,9 +75,8 @@ p{
     }
 /*--------------TABLETS------------ */
 @media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 2){
+  and (min-width: 768px) 
+  and (max-width: 1024px) {
   ul li:nth-child(2){
     width: 54%;
   }
@@ -87,9 +86,8 @@ p{
 }
 /*----------------PHONES---------------------  */
 @media only screen 
-  and (min-device-width: 200px) 
-  and (max-device-width: 300px) 
-  and (-webkit-min-device-pixel-ratio: 2){
+  and (min-width: 200px) 
+  and (max-width: 300px) {
   ul li:nth-child(1){
     width: 99%;
   }
