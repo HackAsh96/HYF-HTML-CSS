@@ -74,9 +74,7 @@ p{
     background-color:rgb(186, 32, 0);
     }
 /*--------------TABLETS------------ */
-@media only screen 
-  and (min-width: 768px) 
-  and (max-width: 1024px) {
+@media screen and (max-width: 768px){
   ul li:nth-child(2){
     width: 49%;
   }
@@ -85,9 +83,7 @@ p{
   }
 }
 /*----------------PHONES---------------------  */
-@media only screen 
-  and (min-width: 200px) 
-  and (max-width: 300px) {
+@media screen and (max-width: 350px){
   ul li:nth-child(1){
     width: 99%;
   }
