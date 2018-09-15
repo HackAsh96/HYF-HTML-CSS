@@ -80,6 +80,7 @@
   margin:0px ;
   position: relative;
   justify-content: space-between;
+  animation: effect 1.5s ease-in-out ;
   }
   /*-------SHOE1----------*/
   .shoe1{
